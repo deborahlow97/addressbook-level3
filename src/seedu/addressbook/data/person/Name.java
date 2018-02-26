@@ -37,7 +37,7 @@ public class Name {
         return test.matches(NAME_VALIDATION_REGEX);
     }
 
-    
+
     /**
      * Retrieves a listing of every word in the name, in order.
      */
